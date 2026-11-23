@@ -1,0 +1,19 @@
+# Godot
+.godot/
+/android/
+*.translation
+
+# .NET build output
+.mono/
+bin/
+obj/
+*.user
+
+# Exports (built games) - keep out of git
+/export/
+/builds/
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
