@@ -31,6 +31,9 @@ Other in-world terms:
 - **The Evening Word**: Your Neighbor's nightly broadcast at 8:00, right before curfew.
 - **Grey**: street slang for black-market goods ("is it grey?").
 - **Moles**: people who live and trade in the Undercity.
+- **Scrip**: money. New arrivals get a small allowance for "personal sundries"; fines are taken out of it.
+- **"Is it grey out?" / "Getting greyer."**: Pell's handoff passphrase.
+- **Clear**: what a band shows after a clean patrol stop.
 
 ---
 
@@ -125,7 +128,9 @@ Rules for writers: **hint, never confirm.** Every hint should have an innocent e
 2. **The Consensus began as Halloway's own resistance.** Abel Quarry's archive shows the Settlement was carried out by a group that called itself the Lamplighters. *The revolution is circular.*
 3. **Odile was taken, and returned "Waked."** Who reported her? Candidates: Marcus (for her own good), Jory (to protect Wren), Odile herself (to protect Wren), or nobody at all: routine. *Never answered.*
 4. **What happened to Wren?** Four possible readings, all supported: relocated (Teague), arrested (Grane), escaped into the Deep (Quarry), or recruited into the Consensus itself (Candle). *Never answered.* Players will argue about it, and that's the point.
-5. **Your Neighbor might not be one person.** Small continuity slips in the broadcasts (a mug that changes hands). Only noticed by careful players.
+   - *Seeded in Ch. 4:* Wren tells Sergeant Grane that her neighbor in Unit 8 won't take her Wake. Wren will later wonder if she reported Odile herself without meaning to.
+6. **Wren wasn't the first.** Marcus and Jory insist Route Nine is "new" and was "unassigned." But a wall panel in Unit 9 has already been taken off once (Ch. 2), and Pell keeps an older, faded courier bag stitched **9** with a false bottom (Ch. 3). The circle runs back before Wren, too. *Never explained.*
+7. **Your Neighbor might not be one person.** Small continuity slips in the broadcasts (a mug that changes hands). Only noticed by careful players.
 
 ---
 
@@ -136,7 +141,9 @@ Rules for writers: **hint, never confirm.** Every hint should have an innocent e
 | Wren's notes hidden in Unit 9 | Collectible "Wren's Notes" (like Stardew's secret notes). Each one is a scene from the book in her words. |
 | The coffee plant behind the wall | The player's first coffee seeds and the hidden grow-room tutorial. |
 | Jory's bag | First concealment item. |
-| Mirren's sick kid | A friendship quest: bring medicine (grey) or report it (legal). |
+| Mirren's sick kid (Pia, 6, on children's Wake) | A friendship quest: bring honey-and-thyme remedy (grey) or report it (legal). |
+| Pell's chalk slate, risk 1–5 | The visible risk scale UI. Pell is the in-world reason the player can read risk. |
+| Grane reading route patterns from band data | Detection based on behavior: repeating the same blind-spot short cut raises suspicion. |
 | The Coffee Crackdown (Ch. 6) | The first Campaign the player triggers. |
 | Odile "Waked" | A long friendship arc with real payoff. |
 | Abel Quarry's letter | A late-game reward on the dark/Undercity side. |
