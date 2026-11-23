@@ -12,7 +12,7 @@ The speaker in the ceiling had been playing the same message since dawn. *Welcom
 
 Wren thought about the bag between her boots. It held two shirts, a pair of socks with the heels worn through, a comb, her mother's thimble, and a tin with a paper inside that said **4471-K**. That was all. Everything else from the settlement had stayed behind, because the letter had said *Freehold will provide.* The letter had said it three times, underlined, as if anticipating an argument.
 
-The train slowed. The orange woman opened her eyes. Somewhere below them, brakes screamed, and the carriage filled with a pale, sudden light as the doors folded back.
+The train slowed without a sound. There was no jolt and no squeal, only a low hum under the floor that sank lower and lower until Wren felt it more in her teeth than her ears, and then stopped. The carriage hung perfectly still, floating on nothing. The orange woman opened her eyes. The doors folded back without a whisper, and the carriage filled with a pale, sudden light.
 
 ---
 
@@ -88,7 +88,11 @@ Arrivals Block was a twenty-minute walk from the hall, and Wren took forty, beca
 
 The buildings were tall and close together and painted in soft, careful colors, peach and sage and cream, like the inside of a nursery. Every window was the same size. Every door had the same brass number plate. Laundry hung on lines between the balconies, and all of it was grey, the standard grey of issued cloth, so that it looked as if the street had been strung with rain clouds.
 
-There were people everywhere and none of them were in a hurry. A man swept a step that was already clean. Two women in matching aprons sat on a bench outside a shop called **THE CHOICE STORE** and watched her pass with mild interest. A child chased a ball into the road and a drone dropped out of the sky, hovered at the height of his head, and chimed politely until he went back to the curb. Nobody else seemed to notice. Wren noticed. She watched the drone rise until it was a speck again, joining a slow constellation of other specks drifting above the rooftops, and she understood why there was no garden anywhere, not a window box, not a single weed in the cracks of the pavement.
+There were people everywhere and none of them were in a hurry. A man swept a step that was already clean. Two women in matching aprons sat on a bench outside a long, bright shopfront with a single word above its doors, **CHOICE**, and watched her pass with mild interest.
+
+Through Choice's tall windows Wren could see grain sacks stacked in perfect rows, floor to ceiling, beside crates of potatoes and pale, polished apples. Each sack had a blue stamp on its side. She knew that stamp. She had pressed it onto ten thousand sacks herself, back on the grain lines at Settlement Nine, and never once wondered where they went. Here they were, waiting for her, as if they had arrived ahead of her and been told to expect her.
+
+A child chased a ball into the road and a drone dropped out of the sky, hovered at the height of his head, and chimed politely until he went back to the curb. Nobody else seemed to notice. Wren noticed. She watched the drone rise until it was a speck again, joining a slow constellation of other specks drifting above the rooftops, and she understood why there was no garden anywhere, not a window box, not a single weed in the cracks of the pavement.
 
 At the end of the street was a checkpoint: a low gate, a booth, a young officer leaning on the rail with his cap pushed back. He looked tired. He looked at her band, then at her face, then away. She kept walking.
 
@@ -108,7 +112,7 @@ Someone knocked.
 
 The woman in the doorway was small and very old, with white hair pinned up in a style Wren had only seen in pictures, and a cardigan buttoned wrong. She held a plate covered with a cloth.
 
-"You're the new one," she said. "Nine. I'm Eight. Odile Fenn. I've brought you bread, because the Choice Store won't give you your ration card until Thursday and nobody tells you that, the idiots." She pushed the plate into Wren's hands. "You look like a sparrow that fell out of something."
+"You're the new one," she said. "Nine. I'm Eight. Odile Fenn. I've brought you bread. Your band's already loaded with your rations, don't worry, they're never late with that. But the issued loaf tastes like the box it came in." She pushed the plate into Wren's hands. "You look like a sparrow that fell out of something."
 
 "I'm Wren," said Wren.
 
@@ -130,7 +134,7 @@ And there was a smell. It came in with her, clinging to her cardigan, faint and 
 
 Odile looked at her for a long moment, the same way Teague had, measuring. But it was a different kind of measuring. Teague had looked at her like a form to be filled in. Odile looked at her like a door she was deciding whether to open.
 
-"Cabbage," Odile said. "The whole building smells of cabbage. You'll stop noticing." She patted the bed beside her. "Now. Sit down and eat that bread, and I'll tell you everything the idiots don't. Curfew's at nine. The Word's at eight. Don't be in the corridor after nine, not even to go to the toilet, there's one at the end and it's watched. The Choice Store opens at six and the good bread's gone by half past. Don't talk to the woman in Four, she reports her own cat. Mirren on the checkpoint is a nice boy with a sick little girl; be kind to him. And the Wellness Kiosk—"
+"Cabbage," Odile said. "The whole building smells of cabbage. You'll stop noticing." She patted the bed beside her. "Now. Sit down and eat that bread, and I'll tell you everything the leaflets don't. Curfew's at nine. The Word's at eight. Don't be in the corridor after nine, not even to go to the toilet, there's one at the end and it's watched. Choice opens at six; go early, the fresh loaves go first. Don't talk to the woman in Four, she reports her own cat. Mirren on the checkpoint is a nice boy with a sick little girl; be kind to him. And the Wellness Kiosk—"
 
 She stopped. Her eyes had found the little white box on the table.
 
@@ -138,9 +142,9 @@ She stopped. Her eyes had found the little white box on the table.
 
 "I'm supposed to take one tonight."
 
-"Mm." Odile reached over and picked up the box and turned it in her old fingers. The green leaf on the lid caught the light. "Lovely packaging. They put a lot of thought into the packaging." She set it down again, exactly where it had been, square to the edge of the table. "You'll do as you like, of course. Everyone does as they like in Freehold."
+"Mm." Odile reached over and picked up the box and turned it in her old fingers. The green leaf on the lid caught the light. "Lovely packaging. They put a lot of thought into the packaging." She set it down again, exactly where it had been, square to the edge of the table. "Nobody counts what's left in the box, dear. They only check that you've got one."
 
-It was so nearly what Teague had said that Wren laughed, and then stopped, because Odile wasn't laughing.
+Wren looked at the box, then at Odile. It took her a moment to understand that she had just been told something.
 
 "Do you take it?" Wren asked.
 

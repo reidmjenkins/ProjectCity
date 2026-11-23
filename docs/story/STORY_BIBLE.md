@@ -59,7 +59,7 @@ Each character has a **game role** so we can build them as NPCs. The novella int
 **Assignment Officer Teague** (he/him), ageless. Bureau of Opportunity. Soft voice, perfect manners, never blinks enough. Assigned Wren, will assign the player. Uses the phrase *"Everyone has a place."*
 - **Game role:** the Opportunity face. Job changes, clearance. Says Unit 9 had "no previous tenant."
 
-**Benedetta Lusk** (she/her), 40s. Clerk at the **Choice Store** (ration store) and permits desk, Bureau of Choice. Brisk, bored, secretly romantic, loves the forbidden novels she confiscates.
+**Benedetta Lusk** (she/her), 40s. Clerk at **Choice** (the ration store) and permits desk, Bureau of Choice. Brisk, bored, secretly romantic, loves the forbidden novels she confiscates.
 - **Game role:** the Choice face. Rations, farm permits, property. A buyer for banned books.
 
 **Sergeant Hollis Grane** (she/her), 40s. Bureau of Liberty. Precise, not cruel, very good at her job. She notices *patterns*. The person who almost catches Wren, and maybe the reason she stops.
@@ -99,7 +99,7 @@ Each character has a **game role** so we can build them as NPCs. The novella int
 | **Tenement 14, Unit 9** | Arrivals Block | Wren's flat, then the player's. A loose wall panel behind the bed hides her grow-space. |
 | **Unit 8** | Arrivals Block | Odile's flat. Teapot basil on the windowsill. |
 | **Arrivals Courier Depot** | Arrivals Block | Marcus's dispatch window, the courier lockers, a cork board of routes. |
-| **The Choice Store** | Arrivals Block | Ration pickup, permits desk. Benedetta. |
+| **Choice** | Arrivals Block | The ration store: issued goods stacked in perfect rows, many grown in the outer settlements. Ration pickup by band, permits desk. Benedetta. |
 | **Checkpoint 3** | Arrivals Block → Old Market | Mirren's post. |
 | **Wellness Kiosk** | Arrivals Block | Dr. Ode. |
 | **Pell's Repairs** | Old Market | Kettles, radios, back room. |
