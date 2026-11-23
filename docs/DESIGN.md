@@ -27,6 +27,8 @@ A Stardew-style life sim set in a futuristic, tightly controlled city, inspired 
 
 ## 3a. Story (in progress)
 
+> **Full story lives in [`docs/story/`](story/):** the [Story Bible](story/STORY_BIBLE.md) (names, cast, places, secrets, game hooks), the [novella outline](story/OUTLINE.md), and the chapters of the backstory novella *The Last Tenant of Unit 9* in `story/novella/`. The novella follows **Wren Adair**, the courier who lived in the player's flat a year before the game and then vanished. Tone: cozy with creeping dread. *Proposed names (not yet confirmed): Party = The Consensus, city = Freehold, old city = Halloway, Wellness = Bureau of Passion, resistance = The Lamplighters.*
+
 - **The Party** runs the city: faceless, ruling through bureaus. *Name TBD: must be satirical, a double-entendre.*
 - **The face of the Party** is a "common man" figure who celebrates the ordinary citizen, not a strongman. *Name TBD.*
 - **The records bureau** rewrites history. It should be a "Bureau of …" title. *Name TBD.*
